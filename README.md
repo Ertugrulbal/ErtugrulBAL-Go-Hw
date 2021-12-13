@@ -4,13 +4,13 @@ Go with Restful Api
 
 -We installed a structure of a E-Commerce Portal
 -We have a 7 models, These are:
-  1- Books
-  2- Authors
-  3- Customers
-  4- Stores
-  5-Companies
-  6-Baskets
-  7-Payments
+  - Books
+  - Authors
+  - Customers
+  - Stores
+  -Companies
+  -Baskets
+  -Payments
 - All of the models seperate each other and attached to Model Folder
 - And all of the pages' relationships provide with go.mod(github.com/Ertugrulbal/models) file.
 
