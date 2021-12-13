@@ -1,5 +1,5 @@
-- ErtugrulBAL-Go-Hw
-Go with Restful Api 
+- ErtugrulBAL-Go-Hw Version2
+- Go with Restful Api 
 
 
 - We installed a structure of a E-Commerce Portal
