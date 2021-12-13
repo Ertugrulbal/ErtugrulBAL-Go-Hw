@@ -3,7 +3,7 @@ Go with Restful Api
 
 
 -We installed a structure of a E-Commerce Portal
-We have a 7 models, These are:
+-We have a 7 models, These are:
   1- Books
   2- Authors
   3- Customers
