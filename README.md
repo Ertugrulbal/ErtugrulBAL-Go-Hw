@@ -8,9 +8,9 @@ Go with Restful Api
   - Authors
   - Customers
   - Stores
-  -Companies
-  -Baskets
-  -Payments
+  - Companies
+  - Baskets
+  - Payments
 - All of the models seperate each other and attached to Model Folder
 - And all of the pages' relationships provide with go.mod(github.com/Ertugrulbal/models) file.
 
